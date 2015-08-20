@@ -150,6 +150,7 @@ footer a {
         height:10em;
         background: url(https://raw.githubusercontent.com/anderbay/AboutMe-Page/gh-pages/images/boutme.jpg) 0 0 no-repeat;
         background-position:top center;
+        vertical-align:top;
     }
     .top-header {
         font-size: 4.5em;
